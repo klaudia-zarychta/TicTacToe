@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1d59d24-d01c-4942-8b74-9cc855e933cb" name="Default Changelist" comment="" />
+    <list default="true" id="e1d59d24-d01c-4942-8b74-9cc855e933cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/udacity/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/udacity/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udacity/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/udacity/Game.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -24,12 +29,25 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/udacity/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="173" column="13" selection-end-line="193" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>X</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -44,17 +62,55 @@
     <option name="width" value="1400" />
     <option name="height" value="886" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project 1 - TicTacToe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1 - TicTacToe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1 - TicTacToe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1 - TicTacToe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1 - TicTacToe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1 - TicTacToe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1 - TicTacToe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1 - TicTacToe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project 1 - TicTacToe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project 1 - TicTacToe" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="udacity" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -121,7 +177,8 @@
       <updated>1562889398150</updated>
       <workItem from="1562889399639" duration="16421000" />
       <workItem from="1563026579428" duration="1025000" />
-      <workItem from="1563027629761" duration="2873000" />
+      <workItem from="1563027629761" duration="5069000" />
+      <workItem from="1563047922571" duration="767000" />
     </task>
     <servers />
   </component>
@@ -137,7 +194,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20319000" />
+    <option name="totallyTimeSpent" value="23282000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -150,8 +207,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14720531" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14886552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -160,7 +218,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15517241" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15550756" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978448" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -192,7 +250,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/udacity/Game.java</url>
-          <line>170</line>
+          <line>178</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
@@ -222,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/udacity/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="149" column="7" lean-forward="true" selection-start-line="148" selection-start-column="97" selection-end-line="149" selection-end-column="7" />
+        <state relative-caret-position="389">
+          <caret line="173" column="13" selection-end-line="193" />
         </state>
       </provider>
     </entry>
